@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Nugget</h1>
 <h3 align="center">A Gorilla Tag Mod Menu Developer.</h3>
-- 🔭 I’m currently working on my mod menu, [NXO Panel](https://github.com/NuggetGT/NXO-Mod-Panel)
 
-- ⚡ Fun fact **I prefer wings over nuggets**
 <h3 align="center">Socials:</h3>
 <p align="center">
 <a href="https://www.youtube.com/@Nugget_NXO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuggetnxo" height="30" width="40" /></a>
