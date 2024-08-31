@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Nugget</h1>
 <h3 align="center">A Gorilla Tag Mod Menu Developer.</h3>
 
-- <h3 align="center"> 🔭 I’m currently working on my mod menu, [NXO Panel](https://github.com/NuggetGT/NXO-Mod-Panel)</h3>
+- <h1 align="center"> 🔭 I’m currently working on my mod menu, [NXO Panel](https://github.com/NuggetGT/NXO-Mod-Panel)</h3>
 
 - ⚡ Fun fact **I prefer wings over nuggets**
 
